@@ -4,7 +4,11 @@ body {
     "Ubuntu", "Cantarell", "Open Sans", "Helvetica Neue", "sans-serif";
 }
 
-header {
+.site-container {
+  min-height: 100vh;
+}
+
+/* header {
   background-color: #404040;
   padding: 1rem;
 }
@@ -13,10 +17,10 @@ header a {
   color: #ffffff;
   font-weight: bold;
   text-decoration: none;
-}
+} */
 
 main {
-  padding: 1rem;
+  flex: 1;
 }
 
 .products {
