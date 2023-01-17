@@ -12,3 +12,4 @@
 8. Fetch Products from backend
 9. manage state by reducer hook
 10. add react bootstrap
+11. create product component
