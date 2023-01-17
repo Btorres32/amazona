@@ -13,3 +13,4 @@
 9. manage state by reducer hook
 10. add react bootstrap
 11. create product component
+12. add product screen
