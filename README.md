@@ -18,3 +18,4 @@
 14. Implement add to cart
 15. improve add cart
 16. Create cart screen
+17. Complete cart screen
