@@ -21,3 +21,4 @@
 17. Complete cart screen
 18. create sign in screen
 19. connect to mongodb database
+20. create sample products
