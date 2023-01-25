@@ -27,3 +27,4 @@
 23. Complete signin screen
 24. Create shipping screeen
 25. Create signup screen
+26. Implement select payment method screen
