@@ -25,8 +25,9 @@
 21. Create sample users
 22. Create signin backend Api
 23. Complete signin screen
-24. Create shipping screeen
+24. Create shipping screen
 25. Create signup screen
 26. Implement select payment method screen
 27. Create place order screen
 28. Place order action
+29. Create order screen
