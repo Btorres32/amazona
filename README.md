@@ -32,3 +32,4 @@
 28. Place order action
 29. Create order screen
 30. Pay order by paypal
+31. Display order history

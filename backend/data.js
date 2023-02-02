@@ -34,7 +34,7 @@ const data = {
       category: "Shirts",
       image: "/images/p2.jpg",
       price: 120,
-      countInStock: 0,
+      countInStock: 10,
       brand: "adidas",
       rating: 4.5,
       numReviews: 10,

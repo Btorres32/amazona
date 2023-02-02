@@ -64,7 +64,7 @@ function ProductScreen() {
     }
     ctxDispatch({
       type: "CART_ADD_ITEM",
-      payload: { ...product, quantity: quantity },
+      payload: { ...product, quantity },
     });
     navigate("/cart");
   };
