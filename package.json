@@ -1,0 +1,35 @@
+{
+  "name": "amazona",
+  "version": "1.0.0",
+  "description": "1. Introduction\r 2. Install tools\r 3. Create React App\r 4. Create Git Repository\r 5. Listing Products\r 6. Add Routing\r 7. Create Node.js Server\r 8. Fetch Products from backend\r 9. Manage state by reducer hook\r 10. Add react bootstrap\r 11. create product component\r 12. Add product screen\r 13. Create loading component\r 14. Implement add to cart\r 15. Improve add cart\r 16. Create cart screen\r 17. Complete cart screen\r 18. Create sign in screen\r 19. Connect to mongodb database\r 20. Create sample products\r 21. Create sample users\r 22. Create signin backend Api\r 23. Complete signin screen\r 24. Create shipping screen\r 25. Create signup screen\r 26. Implement select payment method screen\r 27. Create place order screen\r 28. Place order action\r 29. Create order screen\r 30. Pay order by paypal\r 31. Display order history\r 32. Create User Profile\r 33. Publish to heroku",
+  "main": "index.js",
+  "dependencies": {
+    "jwa": "^1.4.1",
+    "buffer-equal-constant-time": "^1.0.1",
+    "ecdsa-sig-formatter": "^1.0.11",
+    "jws": "^3.2.2",
+    "ms": "^2.1.3",
+    "semver": "^7.3.8",
+    "yallist": "^4.0.0",
+    "lru-cache": "^6.0.0",
+    "safe-buffer": "^5.2.1",
+    "jsonwebtoken": "^9.0.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "cd backend && npm install && cd ../frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Btorres32/amazona.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Btorres32/amazona/issues"
+  },
+  "homepage": "https://github.com/Btorres32/amazona#readme"
+}

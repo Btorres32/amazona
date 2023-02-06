@@ -34,3 +34,4 @@
 30. Pay order by paypal
 31. Display order history
 32. Create User Profile
+33. Publish to heroku
